@@ -1,3 +1,5 @@
+This code provide simple fetch data from json file with reactjs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
